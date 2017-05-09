@@ -172,7 +172,7 @@ header {
     text-align: center;
     color: #fff;
     background-color: transparent;
-    background-image: url('https://s3-us-west-2.amazonaws.com/lagosonrails.com/img/last_meetup.jpg');
+    background-image: url('/img/last_meetup.jpg');
     background-attachment: scroll;
     background-size: cover;
     background-position: 0% 0%;
